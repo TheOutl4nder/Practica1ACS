@@ -1,0 +1,30 @@
+************* Module pruebas
+pruebas.py:15:0: C0301: Line too long (105/100) (line-too-long)
+pruebas.py:78:0: C0305: Trailing newlines (trailing-newlines)
+pruebas.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+pruebas.py:4:0: C0115: Missing class docstring (missing-class-docstring)
+pruebas.py:10:4: C0103: Method name "PagarNomina" doesn't conform to snake_case naming style (invalid-name)
+pruebas.py:10:4: C0116: Missing function or method docstring (missing-function-docstring)
+pruebas.py:4:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+pruebas.py:14:0: C0115: Missing class docstring (missing-class-docstring)
+pruebas.py:14:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+pruebas.py:24:0: C0115: Missing class docstring (missing-class-docstring)
+pruebas.py:24:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+pruebas.py:34:0: C0115: Missing class docstring (missing-class-docstring)
+pruebas.py:34:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+pruebas.py:43:0: C0115: Missing class docstring (missing-class-docstring)
+pruebas.py:46:4: C0103: Method name "Agregar" doesn't conform to snake_case naming style (invalid-name)
+pruebas.py:46:22: C0103: Argument name "c" doesn't conform to snake_case naming style (invalid-name)
+pruebas.py:46:4: C0116: Missing function or method docstring (missing-function-docstring)
+pruebas.py:49:4: C0103: Method name "Remover" doesn't conform to snake_case naming style (invalid-name)
+pruebas.py:49:22: C0103: Argument name "c" doesn't conform to snake_case naming style (invalid-name)
+pruebas.py:49:4: C0116: Missing function or method docstring (missing-function-docstring)
+pruebas.py:53:4: C0103: Method name "Encontrar" doesn't conform to snake_case naming style (invalid-name)
+pruebas.py:53:4: C0116: Missing function or method docstring (missing-function-docstring)
+pruebas.py:59:4: C0103: Method name "PagarNomina" doesn't conform to snake_case naming style (invalid-name)
+pruebas.py:59:4: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 5.47/10 (previous run: 5.47/10, +0.00)
+
+
